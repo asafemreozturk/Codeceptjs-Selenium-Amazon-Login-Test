@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.3",
+    "selenium": "^2.20.0",
+    "standalone": "^0.0.1"
+  },
+  "devDependencies": {
+    "webdriverio": "^6.12.1"
+  }
+}
